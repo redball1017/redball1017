@@ -1,16 +1,15 @@
-### Hi there 👋
+# 简介
 
-<!--
-**redball1017/redball1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+大家好，我是红色的球，是[redball's Blog](blog.redball1017.ga)的博主，主要分享一些网上的好用技巧以及我自己喜欢听的一些歌。
 
-Here are some ideas to get you started:
+# 联系方式
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我的联系邮箱:2550331736@qq.com
+
+​						bingyuanfn@gmail.com
+
+我的哔哩哔哩账户:https://space.bilibili.com/234292980
+
+我的YT频道:https://www.youtube.com/channel/UCm1I4odEP_LVN3YLWOPG3LA
+
+

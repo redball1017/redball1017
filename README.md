@@ -1,15 +1,11 @@
 # 简介
 
-大家好，我是红色的球，是[redball's Blog](blog.redball1017.ga)的博主，主要分享一些网上的好用技巧以及我自己喜欢听的一些歌。
+我是来自广东的一枚程序员球，平时喜欢捣鼓一些跟跨越GFW有关的事情。偶尔也会汉化一些开源项目（前提是我感兴趣）
 
 # 联系方式
 
-我的联系邮箱:2550331736@qq.com
+Email:redball1017@126.com
 
-​						bingyuanfn@gmail.com
+Bilibili:[点我](https://space.bilibili.com/234292980)
 
-我的哔哩哔哩账户:https://space.bilibili.com/234292980
-
-我的YT频道:https://www.youtube.com/channel/UCm1I4odEP_LVN3YLWOPG3LA
-
-
+Youtube:[点我](https://www.youtube.com/@redball1017)
